@@ -1,4 +1,3 @@
 Changed Mike's content
-<<<<<<< HEAD
 Mike's Changes Here
 Mike Changed again.  Here we go
