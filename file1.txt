@@ -2,6 +2,3 @@ Changed Mike's content
 <<<<<<< HEAD
 Mike's Changes Here
 Mike Changed again.  Here we go
-=======
-Mike's Changes Here
->>>>>>> 75cd91d8557877a95b654d95882f5dd5aaa7e8a6
